@@ -1,4 +1,4 @@
 # excel-demo
 This is my excel repository.
 <br>
-Author - Rishi Patel
+Author - Rishi A. Patel
